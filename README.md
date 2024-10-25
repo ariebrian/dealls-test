@@ -42,3 +42,5 @@
 
 3. running tests
     ```npm run test```
+
+## Deployment using Docker (included Dockerfile)
